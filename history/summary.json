@@ -4,19 +4,19 @@
     "url": "https://marketaspex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/marketaspex.com.ico",
     "slug": "market-aspex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 114,
-    "timeWeek": 162,
-    "timeMonth": 137,
-    "timeYear": 137,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 138,
+    "timeDay": 138,
+    "timeWeek": 165,
+    "timeMonth": 138,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-11-17": 0
+      "2024-11-17": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://innovateacademyprep.org/",
     "icon": "https://icons.duckduckgo.com/ip3/innovateacademyprep.org.ico",
     "slug": "innovate-acad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 235,
-    "timeWeek": 233,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 226,
+    "timeDay": 241,
+    "timeWeek": 236,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-11-17": 0
+      "2024-11-17": 7
     }
   },
   {
