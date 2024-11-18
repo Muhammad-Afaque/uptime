@@ -4,19 +4,19 @@
     "url": "https://marketaspex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/marketaspex.com.ico",
     "slug": "market-aspex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 120,
-    "timeWeek": 157,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 137,
+    "timeDay": 130,
+    "timeWeek": 159,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
-      "2024-11-18": 1
+      "2024-11-18": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pondperfections.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pondperfections.com.ico",
     "slug": "pond-perfections",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 259,
-    "timeWeek": 461,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 520,
+    "timeDay": 328,
+    "timeWeek": 453,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-11-18": 0
+      "2024-11-18": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://innovateacademyprep.org/",
     "icon": "https://icons.duckduckgo.com/ip3/innovateacademyprep.org.ico",
     "slug": "innovate-acad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 216,
+    "timeDay": 217,
     "timeWeek": 226,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-11-18": 0
+      "2024-11-18": 7
     }
   },
   {
