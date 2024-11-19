@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/marketaspex.com.ico",
     "slug": "market-aspex",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 137,
-    "timeDay": 130,
-    "timeWeek": 159,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {
-      "2024-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 136,
+    "timeDay": 138,
+    "timeWeek": 151,
+    "timeMonth": 136,
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PondPerfections",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pondperfections.com.ico",
     "slug": "pond-perfections",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 520,
-    "timeDay": 328,
-    "timeWeek": 453,
-    "timeMonth": 520,
-    "timeYear": 520,
-    "dailyMinutesDown": {
-      "2024-11-18": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 521,
+    "timeDay": 472,
+    "timeWeek": 441,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {}
   },
   {
     "name": "innovate Acad",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/innovateacademyprep.org.ico",
     "slug": "innovate-acad",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 224,
-    "timeDay": 217,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 225,
+    "timeDay": 228,
     "timeWeek": 226,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {
-      "2024-11-18": 7
-    }
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
