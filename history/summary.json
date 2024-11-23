@@ -22,7 +22,7 @@
     "url": "https://pondperfections.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pondperfections.com.ico",
     "slug": "pond-perfections",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 462,
     "timeMonth": 520,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 0
+    }
   },
   {
     "name": "innovate Acad",
