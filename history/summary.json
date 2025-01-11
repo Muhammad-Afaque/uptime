@@ -22,7 +22,7 @@
     "url": "https://pondperfections.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pondperfections.com.ico",
     "slug": "pond-perfections",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 615,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-11-23": 51
     }
   },
